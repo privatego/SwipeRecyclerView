@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a4774ba4f70ab210550a94e1aa25059eff9f9f37.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_43af39e62e3e251caa5b6367d8ba3d1d08dd1a7a.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_b9848ae789f91a2a4ec72643a80e6f70cdbf76e4.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_dc62562358c05cfaa247d4c06c33f2c5b693a9d3.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_045ac38c868dd874a03e35c90655db2606993128.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_659b66b4209afd30b302f6f90b2a8e5806b162a7.jar" />
+    </item>
+    <item
+        jar="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/blessed/workspace/blog/github/SwipeRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_904985de8bf0d5db2e201034e8bba5c635305e6e.jar" />
+    </item>
+
+</items>
